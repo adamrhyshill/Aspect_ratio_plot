@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Aspect_ratio_plot_v2, Configuration: Debug Win32 ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Aspect_ratio_plot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+1>Aspect_ratio_plot.cpp
+1>Aspect_ratio_plot.vcxproj -> C:\Users\adamr\source\repos\Aspect_ratio_plot\Debug\Aspect_ratio_plot_v2.exe
+1>Done building project "Aspect_ratio_plot.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
